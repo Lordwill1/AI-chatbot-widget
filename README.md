@@ -1,1 +1,1 @@
-This is a chatbot widget
+This is a chatbot widget.
